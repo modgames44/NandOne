@@ -129,10 +129,13 @@
 - Sin su trabajo de investigación y desarrollo inicial, NandOne no hubiera sido posible
 
 ### 🇧🇷 **Desarrollo y Adaptación**
-- **TXD** (Brasil) - Desarrollo de NandOne, interfaz moderna y nuevas funcionalidades
+- **TXD** (Brasil) - Programa básico basado en el proyecto original
+- **ModGames** - Desarrollo de interfaz moderna y nuevas funcionalidades
+- **GitHub Copilot** - Asistencia en desarrollo y optimización
 - Implementación del sistema de validación integral
 - Motor de reparación inteligente y seguro
 - Interfaz de usuario responsiva con PySide6
+- Opciones avanzadas de validación
 
 ### 🌟 **Proyecto Base**
 Este proyecto está basado en y es una evolución de:
