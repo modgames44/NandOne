@@ -122,6 +122,30 @@
 - 🐛 **[Reportar Bug](../../issues)**
 - 💡 **[Solicitar Feature](../../issues)**
 
+## 🏆 Créditos y Agradecimientos
+
+### 👨‍💻 **Desarrollador Original**
+- **tuxuser** - Creador del proyecto original [py-durango-tools](https://github.com/tuxuser/py-durango-tools)
+- Sin su trabajo de investigación y desarrollo inicial, NandOne no hubiera sido posible
+
+### 🇧🇷 **Desarrollo y Adaptación**
+- **TXD** (Brasil) - Desarrollo de NandOne, interfaz moderna y nuevas funcionalidades
+- Implementación del sistema de validación integral
+- Motor de reparación inteligente y seguro
+- Interfaz de usuario responsiva con PySide6
+
+### 🌟 **Proyecto Base**
+Este proyecto está basado en y es una evolución de:
+- **[py-durango-tools](https://github.com/tuxuser/py-durango-tools)** por tuxuser
+- Herramientas originales para análisis de Xbox One
+- Investigación fundamental sobre estructuras NAND de Xbox One
+
+### 🙏 **Agradecimientos Especiales**
+- **Microsoft** - Por la consola Xbox One
+- **Comunidad Xbox** - Por la investigación colaborativa
+- **tuxuser** - Por liberar las herramientas originales como código abierto
+- **Comunidad de desarrolladores** - Por el soporte continuo
+
 ---
 
 **⚡ NandOne v1.0.0 - Herramienta especializada para Xbox One NAND**
