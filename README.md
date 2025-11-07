@@ -1,6 +1,8 @@
 # NandOne
 # 🎮 NandOne v1.0.0 - Xbox One NAND Tool
 
+<img width="1793" height="1148" alt="Captura de pantalla 2025-11-07 082507" src="https://github.com/user-attachments/assets/d13f0866-5fe5-436f-b63f-d673ffea452f" />
+
 ## 📥 Descarga Rápida
 
 **Tamaño**: ~85 MB  
