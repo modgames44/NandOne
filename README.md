@@ -148,7 +148,6 @@ Este proyecto está basado en y es una evolución de:
 - **Comunidad Xbox** - Por la investigación colaborativa
 - **tuxuser** - Por liberar las herramientas originales como código abierto
 - **Comunidad de desarrolladores** - Por el soporte continuo
-
 ---
-
 **⚡ NandOne v1.0.0 - Herramienta especializada para Xbox One NAND**
+**☕ ¿Te gusta NandOne? [Apoya el desarrollo](https://ko-fi.com/modgames44)**
